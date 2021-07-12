@@ -11,4 +11,4 @@ The task deals with predicting the percentage of students based on the number of
 
 From the given ‘Iris’ dataset, predicting the optimum number of clusters and representing it visually.
 
-[GRIP @ TASK - 2](https://github.com/deepthiinduri/GRIP-TheSparksFoundation/blob/b29fd7d88bfa4be9855203dc62f3e6edd4939c00/TASK%20-%202.ipynb)
+[GRIP @ TASK - 2](https://github.com/deepthiinduri/GRIP-TheSparksFoundation/blob/024e7a68b8c27e896c32e4476af167ed7114ff8b/TASK%20-%202.ipynb)
