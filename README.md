@@ -20,6 +20,6 @@ From the given ‘Iris’ dataset, predicting the optimum number of clusters and
 
 Create the Decision Tree classifier and visualize it graphically.
 
-The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly
+The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
 [GRIP @ TASK - 6](https://github.com/deepthiinduri/GRIP-TheSparksFoundation/blob/main/TASK%20-%206.ipynb)
