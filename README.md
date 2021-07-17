@@ -1,5 +1,7 @@
 # GRIP @ The Sparks Foundation
 
+# Data Science and Business Analytics
+
 ## Task 1 - Prediction using Supervised ML
 
 The task deals with predicting the percentage of students based on the number of study hours.
@@ -23,3 +25,8 @@ Create the Decision Tree classifier and visualize it graphically.
 The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
 [GRIP @ TASK - 6](https://github.com/deepthiinduri/GRIP-TheSparksFoundation/blob/main/TASK%20-%206.ipynb)
+
+
+# Computer Science and Internet of Things
+
+## Task 1 - Prediction using Decision Tree Algorithm
