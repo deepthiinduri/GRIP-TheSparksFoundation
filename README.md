@@ -26,7 +26,8 @@ The purpose is if we feed any new data to this classifier, it would be able to p
 
 [GRIP @ TASK - 6](https://github.com/deepthiinduri/GRIP-TheSparksFoundation/blob/main/TASK%20-%206.ipynb)
 
+#
 
 # Computer Science and Internet of Things
 
-## Task 1 - Prediction using Decision Tree Algorithm
+## Task 1 - Object Detection / Optical Character Recognition (ORC) 
