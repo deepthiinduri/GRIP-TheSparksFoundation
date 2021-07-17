@@ -32,3 +32,4 @@
 > Implement an object detector which identifies the classes of the objects in an image or video. OR
 > Character detector which extracts printed or handwritten text from an image or video.
 > Below resources are just for references you can use any library/approach to achieve the goal.
+> [TASK - 1](https://github.com/deepthiinduri/GRIP-TheSparksFoundation/blob/main/Computer%20Vision%20and%20IOT/TASK%20-%201%20CV%20%26%20IOT.ipynb)
