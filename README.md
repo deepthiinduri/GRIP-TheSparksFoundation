@@ -2,7 +2,7 @@
 
 #
 
-## _Data Science and Business Analytics_
+##  :sparkles:_Data Science and Business Analytics_
 
 ### Task 1 - Prediction using Supervised ML
 
@@ -25,6 +25,6 @@
 
 #
 
-## _Computer Science and Internet of Things_
+##  :sparkles:_Computer Science and Internet of Things_
 
 ### Task 1 - Object Detection / Optical Character Recognition (ORC) 
