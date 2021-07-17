@@ -1,6 +1,6 @@
 # __GRIP @ The Sparks Foundation__
 
-# Data Science and Business Analytics
+# _Data Science and Business Analytics_
 
 ## Task 1 - Prediction using Supervised ML
 
@@ -23,6 +23,6 @@
 
 
 
-# Computer Science and Internet of Things
+# _Computer Science and Internet of Things_
 
 ## Task 1 - Object Detection / Optical Character Recognition (ORC) 
