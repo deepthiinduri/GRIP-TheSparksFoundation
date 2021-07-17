@@ -28,3 +28,7 @@
 ##  :sparkles:_Computer Science and Internet of Things_
 
 ### Task 1 - Object Detection / Optical Character Recognition (ORC) 
+
+> Implement an object detector which identifies the classes of the objects in an image or video. OR
+> Character detector which extracts printed or handwritten text from an image or video.
+> Below resources are just for references you can use any library/approach to achieve the goal.
