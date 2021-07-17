@@ -1,4 +1,4 @@
-# **GRIP @ The Sparks Foundation**
+# __GRIP @ The Sparks Foundation__
 
 # Data Science and Business Analytics
 
