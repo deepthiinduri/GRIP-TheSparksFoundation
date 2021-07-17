@@ -2,7 +2,7 @@
 
 # Data Science and Business Analytics
 
-## Task 1 - Prediction using Supervised ML
+> ## Task 1 - Prediction using Supervised ML
 
 The task deals with predicting the percentage of students based on the number of study hours.
 
