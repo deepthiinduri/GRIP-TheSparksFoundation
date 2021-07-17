@@ -1,5 +1,7 @@
 # __GRIP @ The Sparks Foundation__
 
+#
+
 ## _Data Science and Business Analytics_
 
 ### Task 1 - Prediction using Supervised ML
@@ -21,7 +23,7 @@
 > The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 > [GRIP @ TASK - 6](https://github.com/deepthiinduri/GRIP-TheSparksFoundation/blob/main/TASK%20-%206.ipynb)
 
-
+#
 
 ## _Computer Science and Internet of Things_
 
